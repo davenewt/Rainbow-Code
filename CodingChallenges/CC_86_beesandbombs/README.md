@@ -6,3 +6,4 @@
 * Add your version here
 * Lugsole's contribution [Source Code](https://github.com/Lugsole/Cube_Wave)
 * amoetodi's contribution [Source Code](https://github.com/amoetodi/CC86) [Live Demo](http://amoetodi.github.io/CC86)
+* (davenewt) david's colour-cycling contribution [on Codepen](https://codepen.io/anon/pen/wprwdP)
